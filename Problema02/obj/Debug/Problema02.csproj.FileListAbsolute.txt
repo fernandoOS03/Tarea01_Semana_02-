@@ -1,0 +1,14 @@
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\bin\Debug\Problema02.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\bin\Debug\Problema02.pdb
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\obj\Debug\Problema02.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\obj\Debug\Problema02.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\obj\Debug\Problema02.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Problema01\Problema02\obj\Debug\Problema02.pdb
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\bin\Debug\Problema02.exe.config
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\bin\Debug\Problema02.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\bin\Debug\Problema02.pdb
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\obj\Debug\Problema02.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\obj\Debug\Problema02.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\obj\Debug\Problema02.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema02\obj\Debug\Problema02.pdb

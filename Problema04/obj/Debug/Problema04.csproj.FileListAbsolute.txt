@@ -1,0 +1,7 @@
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\bin\Debug\Problema04.exe.config
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\bin\Debug\Problema04.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\bin\Debug\Problema04.pdb
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\obj\Debug\Problema04.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\obj\Debug\Problema04.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\obj\Debug\Problema04.exe
+C:\Users\Fernando\Desktop\Documentos\CIBERTEC\Ciclo3\PROGRAMACIÓN ORIENTADA A OBJETOS I\Tareas\Tare01\Problema04\obj\Debug\Problema04.pdb
